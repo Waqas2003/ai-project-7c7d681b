@@ -1,0 +1,15 @@
+{
+    "name": "ecommerce-website",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
+```
+
+**Database**
+
+For this example, we'll use a simple JSON file to store our products. In a real-world scenario, you would use a database like MongoDB or MySQL.
